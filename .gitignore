@@ -1,0 +1,10 @@
+.idea/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+settings.py
+db.sqlite3
+media
