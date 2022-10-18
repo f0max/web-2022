@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en" class="h-100">
+<head>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    <meta charset="utf-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    <h1>OZON</h1>
+    <div>Today is {{ data.current_date }}</div>
+    {% block content %}{% endblock %}
+</body>
+</html>
