@@ -1275,7 +1275,7 @@
 											"top": 64,
 											"width": 80.9072265625,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Model)"
 										},
 										{
 											"_type": "LabelView",
@@ -1449,7 +1449,7 @@
 											"left": 512,
 											"width": 80.9072265625,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Model)"
 										},
 										{
 											"_type": "LabelView",
@@ -5029,7 +5029,7 @@
 											"top": 340,
 											"width": 61.419921875,
 											"height": 13,
-											"text": "REST API"
+											"text": "WEB API"
 										},
 										{
 											"_type": "LabelView",
@@ -5403,7 +5403,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGD79fEn5+2ET4="
 					},
-					"name": "REST API"
+					"name": "WEB API"
 				},
 				{
 					"_type": "UMLClass",
